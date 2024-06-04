@@ -1,8 +1,9 @@
 # Project Name - _Project Author (Change Me)_
-
+Youtube_Automation - _Asha G_
 ## Project Name and Description:
 A concise yet descriptive title and an overview of the project’s purpose.
-
+YouTube Automation 
+Automate the youtube and check the Films, Music and News tab. Use DataProvider to Search for various items from a data-set.
 ## Installation Instructions:
 Clear steps to set up and run the project locally.
 > Example:
