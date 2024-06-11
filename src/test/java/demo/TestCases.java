@@ -44,6 +44,7 @@ public class TestCases {
 
         driver = new ChromeDriver();
         driver.manage().window().maximize();
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 
         wait = new WebDriverWait(driver, Duration.ofSeconds(40));
         act = new Actions(driver);
